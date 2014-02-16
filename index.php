@@ -3,7 +3,7 @@
 	<head>
 		<meta name="google-site-verification" content="D3hwIu2mQR6_BEIuMSyHEvJ6DYhch8bSAabqYi5YRNc" />
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
-		<title>SKUTUM NEW -Media Starts Here</title>
+		<title>SKUTUM NEW - Media Starts Here</title>
 		<link rel="stylesheet" rev="stylesheet" href="http://meyerweb.com/eric/tools/css/reset/reset.css" type="text/css" media="all">
   		<link rel="stylesheet" href="css/style.css" />
   		<link rel="stylesheet" href="js/jquery.ferro.ferroMenu.css" />
