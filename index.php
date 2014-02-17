@@ -183,8 +183,8 @@
 				<i class="fa fa-home"></i>
 				<h1>About Skutum</h1>
 				<div class="cnt">
-					Skutum (sc-ooo-tum) is owned and operated by Tyler Robinson who is a "Jack of All Trades" master of a few and an attempter of many others.
-					<br><br>
+					
+					<br>
 					Services we offer:
 					<br><br>
 					<ul class="servicesList">
