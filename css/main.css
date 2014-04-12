@@ -34,6 +34,7 @@ article{
 	top:0;
 	z-index:2;
 	opacity:1;
+	height: 80%;
 	/*-webkit-transform-origin:right center;
 	-moz-transform-origin:right center;
 	-ms-transform-origin:right center;
